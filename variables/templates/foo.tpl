@@ -9,7 +9,6 @@
     <td>Address</td>
 </tr>
 </table>
-{$smarty.now}
 </body>
 </html>
 

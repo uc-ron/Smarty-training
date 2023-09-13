@@ -1,6 +1,6 @@
 <?php
     
-    include('../libs/Smarty.class.php');
+    include('../../libs/Smarty.class.php');
 
 // create object
 $smarty = new Smarty;
